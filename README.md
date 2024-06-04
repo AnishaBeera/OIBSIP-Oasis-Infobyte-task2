@@ -41,7 +41,23 @@ EDA is performed using Pandas, Matplotlib, and Seaborn to visualize and analyze 
 - Analyzing the impact of Covid-19 on unemployment rates
 - Identifying patterns and relationships between different variables
 
-##Conclusion
+## Visualizing Data with a Heatmap
+In this project, we use a heatmap to visualize the correlation between different variables in the unemployment dataset. Heatmaps are a powerful tool for identifying patterns and relationships in data.
+
+
+
+## Visualizing Data with Histogram and Sunburst Plot
+### Histogram
+Histograms are used to visualize the distribution of a dataset. They show the frequency of data points within specified ranges.
+
+
+
+### Sunburst Plot
+Sunburst plots are used to visualize hierarchical data. 
+
+
+
+## Conclusion
 This project provided a comprehensive analysis of the unemployment rate, particularly during the Covid-19 pandemic. By leveraging Python's powerful data manipulation and visualization libraries, I gained valuable insights into the trends and factors affecting unemployment.
 
 
